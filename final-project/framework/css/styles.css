@@ -1,0 +1,58 @@
+hr {
+    height: 3px;
+    border-color: #BCBBBB;
+    display: block;
+    background-color: #BCBBBB;
+    margin-top: 0px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+.upper-heading{
+    font-size: 40px;
+    font-weight: 200;
+    margin-bottom: 3px;
+    margin-top: 30px;
+}
+
+.lower-heading {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.featured {
+    color: #BCBBBB
+}
+
+.lower-section {
+    color: #414300
+}
+
+.logo {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.first-section{
+    background-color: #edd2ae;
+    padding-top: 15px;
+}
+
+.second-section { 
+    background-color: #edd2ad
+
+}
+
+.third-section {
+    background-color: #c6d3a2;
+    padding-top: 15px;
+}
